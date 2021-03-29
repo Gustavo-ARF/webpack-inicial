@@ -1,0 +1,1 @@
+import"../css/componentes.css";export const saludar=e=>{const o=document.createElement("h1");o.innerText=`Hola, ${e}`,document.body.append(o)};let[campo1,campo2]=[1,2];
